@@ -1,4 +1,4 @@
-  ## source code branchs "Yalu102X"
+  # Yalu102X
   
 "jailbreaking apptool source code repos"
 
